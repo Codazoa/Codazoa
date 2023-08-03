@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codazoa
 - 👀 I am a recent computer science graduate looking to build my skills in software development
-- 📫 How to reach me cody.vernon@protonmail.com
+- 📫 How to reach me codazoa@protonmail.com
 
 <!---
 Codazoa/Codazoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
